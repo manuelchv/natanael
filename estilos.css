@@ -1,4 +1,32 @@
-.info
+.fondo
     {
         background-color: red;
+    }
+.titulo
+    {
+        background-color: white;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 1cm;
+        text-align: center;
+        text-shadow: 2px 3px 3px gray;
+    }
+.info
+    {
+        background-color: white;
+        font-size: .5cm;
+    }
+.imagen
+    {
+        border: 2px solid;
+        border-radius: 8px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+.imagen2
+    {
+        border: 2px solid;
+        border-radius: 8px;
+        float: left;
+        width: 33%;
     }
